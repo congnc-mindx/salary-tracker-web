@@ -1821,7 +1821,6 @@ function SelectField({
 
 function CourseModal({
   course,
-  currentRate,
   onClose,
   onSave,
 }: {
