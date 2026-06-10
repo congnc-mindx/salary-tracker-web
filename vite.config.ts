@@ -20,5 +20,5 @@ import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/salary-tracker-web/',
+  base: '/Salaray-Counting/',
 })
